@@ -530,7 +530,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro p {
     color: #ebebeb;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 #intro .play-btn {
@@ -1228,7 +1228,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     transition: all 0.3s ease-in-out;
     box-shadow: 0 10px 25px 0 rgba(6, 12, 34, 0.1);
     padding-bottom: 15px;
-    min-width: 27pc;
+    min-width: 22pc;
 }
 
 #buy-premium .card:hover {
@@ -1632,7 +1632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
         font-size: 34px;
     }
     #intro p {
-        font-size: 30px;
+        font-size: 24px;
     }
     #schedule .nav-tabs a {
         padding: 8px 60px;
