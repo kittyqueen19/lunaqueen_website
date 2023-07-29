@@ -8,11 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+font {
+    font-size: smaller;
+    font-weight: bold;
+}
 body {
     background: #FFF;
     color: #2f3138;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Rubik', sans-serif;س
 }
 .ul > li {
     direction: rtl;
@@ -1632,7 +1636,7 @@ body.mobile-nav-active #mobile-nav-toggle {
         font-size: 34px;
     }
     #intro p {
-        font-size: 24px;
+        font-size: 18px;
     }
     #schedule .nav-tabs a {
         padding: 8px 60px;
